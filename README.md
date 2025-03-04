@@ -1,4 +1,4 @@
-# Updating for CICD on 4 March to use Git Committ ID also downstream project updated
+# Updating for CICD on 4 March to use Git Committ ID also downstream
 # Updating for CICD on  3 march 2025 to run on UT test
 # Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)[![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml)
 
