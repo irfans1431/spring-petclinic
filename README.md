@@ -1,4 +1,4 @@
-# Updating on 18Mar for CICD
+# Updating on 18Mar for CICD to run
 # Updating on 6 March to use Sonarqube
 # Updating for CICD on 4 March to use Git Committ ID also downstream
 # Updating for CICD on  3 march 2025 to run on UT test
